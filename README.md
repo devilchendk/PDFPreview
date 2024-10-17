@@ -22,7 +22,7 @@ composer require mpdf/mpdf
 
 https://cloud.tencent.com/developer/article/2162330
 
-导出的pdf的截图示例：
+导出的pdf的截图示例（目录是摆设）：
 ![image](https://github.com/user-attachments/assets/fccee451-f108-43cc-894e-9da644714c1c)
 
 

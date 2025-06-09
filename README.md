@@ -1,3 +1,4 @@
+# 新账号：https://github.com/kaitoven
 # PDFPreview
 # Typecho文章导出插件
 # 借助 PHP 库 mpdf 生成 PDF

@@ -1,4 +1,5 @@
 # 新账号：https://github.com/kaitoven
+# Latest 目前PDF目录跳转已经完成，生效。下载最新代码请移步我的新账号
 # PDFPreview
 # Typecho文章导出插件
 # 借助 PHP 库 mpdf 生成 PDF
